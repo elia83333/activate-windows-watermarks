@@ -2,7 +2,7 @@
 
 This repository contains recreated versions of the classic **Windows Activation watermark**, adapted for multiple operating systems.
 
-The font used is **Segoe UI** (by Adobe Fonts). I do not condone or promote any malicious or unauthorized use of this font.  
+The font used is **Segoe UI** (by Microsoft). I do not condone or promote any malicious or unauthorized use of this font.  
 The included SVG file contains two versions: one with **editable text fields** and another with **vectorized text**.  
 If you have Segoe UI installed, you can edit the text freely to suit your needs.
 
@@ -28,7 +28,7 @@ They were recreated by **@elia73333** for educational, research, personal, and c
 I do not condone or promote piracy, copyright infringement, or any malicious use of this material.  
 You are free to modify or redistribute these files, but do not sell them claiming authorship.
 
-The font used is **Segoe UI** (by Adobe Fonts). Please respect its license terms.  
+The font used is **Segoe UI** (by Microsoft). Please respect its license terms.  
 The included SVG contains two versions — one with editable text fields and one with vectorized text.  
 If you have Segoe UI installed, you can edit the text directly.
 
