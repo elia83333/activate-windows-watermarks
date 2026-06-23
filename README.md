@@ -43,4 +43,4 @@ Discord ID: 1185667966063353877
 Discord Mention: <@1185667966063353877>
 You might find me in:
   ApertureOS Server: https://discord.com/invite/rx82u93hGD
-  All Things Linux : https://discord.com/invite/linux
+  Neon Genesis Linux : https://discord.com/invite/nglinux
